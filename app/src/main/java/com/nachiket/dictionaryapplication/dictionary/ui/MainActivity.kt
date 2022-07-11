@@ -89,6 +89,12 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    private fun showw(){
+        Log.d("Experimental","Experimental")
+        Log.d("Experimental","Experimental")
+        Log.d("Experimental","Experimental")
+    }
+
 
     private fun ShowNachi(){
         Log.d("Nachiket","S")
