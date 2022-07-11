@@ -91,6 +91,8 @@ class MainActivity : AppCompatActivity() {
 
     private fun showw(){
         Log.d("Experimental","Experimental")
+        Log.d("Experimental","Experimental")
+        Log.d("Experimental","Experimental")
     }
 }
 
