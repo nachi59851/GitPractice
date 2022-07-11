@@ -2,6 +2,7 @@ package com.nachiket.dictionaryapplication.dictionary.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
@@ -87,4 +88,10 @@ class MainActivity : AppCompatActivity() {
             }
         }
     }
+
+
+    private fun ShowNachi(){
+        Log.d("Nachiket","S")
+    }
 }
+
